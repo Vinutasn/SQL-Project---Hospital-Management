@@ -1,4 +1,4 @@
-Hospital Management – SQL Project
+**Hospital Management – SQL Project**
 
 A SQL-based project analyzing a Hospital Management database with data on hospitals, departments, patients, and medical expenses.
 Includes 10 queries covering:
