@@ -46,6 +46,7 @@ SQL Concepts:
 1. Clone the repository:
 
 git clone https://github.com/your-username/hospital-management-sql.git
+
 2. Open Hospital Management_SQL_Data_Analysis.sql in your SQL editor.
 3. Create the table and insert the dataset.
 4. Run the analysis queries to explore insights.
