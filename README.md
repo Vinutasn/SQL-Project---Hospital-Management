@@ -9,15 +9,15 @@ It demonstrates SQL skills in data exploration, aggregation, grouping, and repor
 
 Table: hospital_data
 
-**Column Name**	                   **Description**
-Hospital_Name  	               Name of the hospital
-Location	                     City where hospital is located
-Department	                   Hospital department (e.g., Cardiology, Orthopedics)
-Doctors_Count	                 Number of doctors available
-Patients_Count	               Number of patients admitted
-Admission_Date	               Date of patient admission
-Discharge_Date	               Date of patient discharge
-Medical_Expenses               Medical expenses incurred (₹)
+**Dataset Columns:**
+- **Hospital_Name** – Name of the hospital  
+- **Location** – City where the hospital is located  
+- **Department** – Hospital department (e.g., Cardiology, Orthopedics)  
+- **Doctors_Count** – Number of doctors available  
+- **Patients_Count** – Number of patients admitted  
+- **Admission_Date** – Date of patient admission  
+- **Discharge_Date** – Date of patient discharge  
+- **Medical_Expenses** – Medical expenses incurred (₹) 
 
 **🔍 Key Analysis Queries**
 
